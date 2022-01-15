@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">S3FileLoader</string>
+    <string name="download">ダウンロード</string>
 </resources>
